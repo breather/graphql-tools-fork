@@ -1,5 +1,7 @@
 # Change log
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
 ### 4.0.5
 
 * Fixes a bug where schemas with scalars could not be merged when passed to
