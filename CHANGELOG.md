@@ -11,12 +11,6 @@ All notable changes to this project will be documented in this file. See [standa
   [@freiksenet](https://github.com/freiksenet) in [#1003](https://github.com/apollographql/graphql-tools/pull/1003)
 * Allow user-provided `buildSchema` options.  <br/>
   [@trevor-scheer](https://github.com/trevor-scheer) in [#1154](https://github.com/apollographql/graphql-tools/pull/1154)
-* Fix `delegateToSchema` to allow delegation to subscriptions with different root field names, allows
-  the use of the `RenameRootFields` transform with subscriptions,
-  pull request [#1104](https://github.com/apollographql/graphql-tools/pull/1104), fixes
-  [#997](https://github.com/apollographql/graphql-tools/issues/997).  <br/>
-* Add transformers to rename, filter, and arbitrarily transform object fields. <br/>
-  Fixes [#819](https://github.com/apollographql/graphql-tools/issues/819).
 
 ### 4.0.4
 
